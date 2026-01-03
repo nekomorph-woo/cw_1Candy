@@ -1,5 +1,3 @@
-# cw_1RainbowCandy
-
 ## 快速启动 (Fast Init):
 ** 30% 准备度即启动 MVP，拒绝完美主义。
 
